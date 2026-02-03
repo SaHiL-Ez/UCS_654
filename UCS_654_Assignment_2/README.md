@@ -1,4 +1,4 @@
-# Assignment-1: Learn Probability Density Functions
+# Assignment-2: Learn Probability Density Functions
 
 ## 📌 Student Information
 - **Roll Number**: 102316091
@@ -61,3 +61,4 @@ The analysis includes the following visualizations generated in the notebook:
 
 ---
 *Assignment submission for Roll No: 102316091*
+
